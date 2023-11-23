@@ -29,10 +29,10 @@ Answer 1: Boolean Value True
 ## Encryption and Decryption Program!
 
 Photo of the Output is:
-<img src="img/pic1.PNG" alt="Image">
-<img src="img/pic2.PNG" alt="Image">
-<img src="img/pic3.PNG" alt="Image">
-<img src="img/pic4.PNG" alt="Image">
-<img src="img/pic5.PNG" alt="Image">
+<img src="./img/pic1.PNG" alt="Image">
+<img src="./img/pic2.PNG" alt="Image">
+<img src="./img/pic3.PNG" alt="Image">
+<img src="./img/pic4.PNG" alt="Image">
+<img src="./img/pic5.PNG" alt="Image">
 
 Thank You 🙏 Please Give Star to this Repository! 🌟 

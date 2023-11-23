@@ -29,18 +29,10 @@ Answer 1: Boolean Value True
 ## Encryption and Decryption Program!
 
 Photo of the Output is:
-<br/>
-![pic1](https://github.com/Harshk133/Encryption-Decryption-Software-in-Python-Tkinter-/assets/93035314/e8a58ad2-a684-4db8-af86-31a298f2b7ff)
-<br/>
-![pic2](https://github.com/Harshk133/Encryption-Decryption-Software-in-Python-Tkinter-/assets/93035314/73e767c7-1674-464d-996c-957fc49692cf)
-<br/>
-![pic3](https://github.com/Harshk133/Encryption-Decryption-Software-in-Python-Tkinter-/assets/93035314/4092a5ec-3729-4528-ba5a-20b1ccd449f4)
-<br/>
-![pic4](https://github.com/Harshk133/Encryption-Decryption-Software-in-Python-Tkinter-/assets/93035314/9862bac3-6ea1-4e75-b001-6ac7292a969c)
-<br/>
-![pic5](https://github.com/Harshk133/Encryption-Decryption-Software-in-Python-Tkinter-/assets/93035314/7e7a8e83-0b32-4dbc-96eb-bcda0c58ce3d)
-
-
-
+<img src="./img/pic1.PNG" alt="Image">
+<img src="./img/pic2.PNG" alt="Image">
+<img src="./img/pic3.PNG" alt="Image">
+<img src="./img/pic4.PNG" alt="Image">
+<img src="./img/pic5.PNG" alt="Image">
 
 Thank You 🙏 Please Give Star to this Repository! 🌟 
